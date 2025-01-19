@@ -1,8 +1,3 @@
-kiopiujesz od punktu 6 do 116
-
-
-
-
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local Camera = workspace.CurrentCamera
